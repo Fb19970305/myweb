@@ -1,4 +1,4 @@
-from myweb.config.local import *
+from myweb.config.product import *
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 import os
